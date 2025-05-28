@@ -2,6 +2,9 @@
   Hola, soy Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+App+Developer" alt="Typing SVG" />
 </p>
