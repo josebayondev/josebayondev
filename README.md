@@ -2,12 +2,9 @@
   Hola, soy Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-
-
-🎓 Desarrollador de aplicaciones web y movil 
-📱 Apasionado por el desarrollo mobile con Flutter y web con React   
-🐶 Creador de DogShare, una red social para perros  
-🎾 Amante del pádel y creador de TieBreak
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+App+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
