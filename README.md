@@ -46,7 +46,7 @@
 
 ## 🤝 Conectemos
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/josebayondev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
