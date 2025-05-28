@@ -57,7 +57,7 @@
 ## 🤝 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/">
+  <a href="https://www.linkedin.com/in/tu-linkedin/](https://www.linkedin.com/in/josebayondev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:tuemail@gmail.com">
@@ -66,6 +66,3 @@
 </p>
 
 ---
-
-🧸 Fun fact: Mis dos perros se llaman **Filippo** y **Milán** 🐾  
-✨ ¡Estoy en modo aprendizaje total para convertirme en un gran desarrollador!
