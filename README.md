@@ -1,14 +1,9 @@
 <h1 align="center">¡Hola! Soy Jose 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2ZjY0NzI3OWU0NTEzNzRjZjcwZmFiOWFiNjliY2JmYWRjMTRmYSZjdD1n/l0MYEqEzwMWFCg8rm/giphy.gif" width="200"/>
-</p>
 
----
 
-🎓 Estudiante de desarrollo de aplicaciones multiplataforma  
-📱 Apasionado por el desarrollo mobile con Flutter  
-🌍 Explorando también React, TypeScript y Docker  
+🎓 Desarrollador de aplicaciones web y movil 
+📱 Apasionado por el desarrollo mobile con Flutter y web con React   
 🐶 Creador de DogShare, una red social para perros  
 🎾 Amante del pádel y creador de TieBreak
 
@@ -43,7 +38,7 @@
 ## 📱 Mis proyectos favoritos
 
 - 🎾 [**TieBreak**](https://github.com/tu_usuario/tiebreak) – App para organizar partidos de pádel y hacer match con otros jugadores.
-- 🐶 [**DogShare**](https://github.com/tu_usuario/dogshare) – Red social para perros con perfiles, ubicaciones pet-friendly y más.
+- 🐶 [**DogShare**](https://github.com/josebayondev/dogshare) – Red social para perros con perfiles, ubicaciones pet-friendly y más.
 - 🌐 [**Mi portfolio**](https://github.com/tu_usuario/portfolio) (en progreso) – Web personal hecha con React y Tailwind.
 
 ---
