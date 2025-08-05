@@ -33,14 +33,9 @@
 - Tailwind CSS
 - TypeScript avanzado
 - Organización de proyectos con Docker
+- Manejo backend con Python
 <br>
 
-
-## 📱 Mis proyectos favoritos
-
-- 🎾 [**TieBreak**](https://github.com/tu_usuario/tiebreak) – App para organizar partidos de pádel y hacer match con otros jugadores.
-- 🐶 [**DogShare**](https://github.com/josebayondev/dog-share) – Red social para perros con perfiles, ubicaciones pet-friendly y más.
-- 🌐 [**Mi portfolio**](https://github.com/tu_usuario/portfolio) (en progreso) – Web personal hecha con React y Tailwind.
 
 <br>
 
