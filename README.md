@@ -4,7 +4,7 @@
 
 Desarrollador fullstack
 
-React · TypeScript · Python — construyendo con Claude Code
+React · TypeScript · Python
 
 [LinkedIn](https://www.linkedin.com/in/josebayondev/) · [Email](mailto:josebayondev@gmail.com)
 
