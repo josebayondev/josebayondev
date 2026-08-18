@@ -1,53 +1,19 @@
-<h1 align="center">
-  Hola, soy Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+### Hola, soy Jose
 
+Desarrollador fullstack. Único dev de un ERP/SaaS en producción en Grupo SIC — arquitectura, backend, frontend y despliegue.
 
+Trabajo a diario con **React + TypeScript** en el frontend y **Python (Flask) + PostgreSQL** en el backend. Fuera del trabajo, construyo proyectos con **FastAPI** para explorar arquitecturas que no toco en el día a día.
 
+#### Ahora mismo
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+App+Developer" alt="Typing SVG" />
-</p>
+Construyendo `booking-app`, un sistema de reservas con FastAPI + React, pensado como pieza de portfolio: tokens opacos en vez de login para reservar, rate limiting, CI con tests, despliegue en Render + Vercel.
 
-<br>
+#### Algunos proyectos
 
+- **[booking-app](https://github.com/josebayondev/booking-app)** — Sistema de reservas. FastAPI, SQLAlchemy, React, PostgreSQL.
+- **[ecobike](https://github.com/josebayondev/ecobike)** — TypeScript.
+- **[dog-share](https://github.com/josebayondev/dog-share)** — Dart.
 
+#### Contacto
 
-## 🚀 Tecnologías y herramientas que uso
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-</p>
-
-<br>
-
-## 🧠 Aprendiendo ahora mismo
-
-- Riverpod y GetX (Flutter)
-- Tailwind CSS
-- TypeScript avanzado
-- Organización de proyectos con Docker
-- Manejo backend con Python
-<br>
-
-
-<br>
-
-## 🤝 Conectemos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josebayondev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:josebayondev.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
-
+[LinkedIn](https://www.linkedin.com/in/josebayondev/) · [josebayondev@gmail.com](mailto:josebayondev@gmail.com)
