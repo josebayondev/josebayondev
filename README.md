@@ -1,19 +1,15 @@
-### Hola, soy Jose
+<div align="center">
 
-Desarrollador fullstack. Único dev de un ERP/SaaS en producción en Grupo SIC — arquitectura, backend, frontend y despliegue.
+<h1>Jose Bayon</h1>
 
-Trabajo a diario con **React + TypeScript** en el frontend y **Python (Flask) + PostgreSQL** en el backend. Fuera del trabajo, construyo proyectos con **FastAPI** para explorar arquitecturas que no toco en el día a día.
+<sub>Desarrollador fullstack</sub>
 
-#### Ahora mismo
+<br><br>
 
-Construyendo `booking-app`, un sistema de reservas con FastAPI + React, pensado como pieza de portfolio: tokens opacos en vez de login para reservar, rate limiting, CI con tests, despliegue en Render + Vercel.
+React · TypeScript · Python — construyendo con Claude Code (subagentes, skills, MCP)
 
-#### Algunos proyectos
+<br><br>
 
-- **[booking-app](https://github.com/josebayondev/booking-app)** — Sistema de reservas. FastAPI, SQLAlchemy, React, PostgreSQL.
-- **[ecobike](https://github.com/josebayondev/ecobike)** — TypeScript.
-- **[dog-share](https://github.com/josebayondev/dog-share)** — Dart.
+[LinkedIn](https://www.linkedin.com/in/josebayondev/) · [Email](mailto:josebayondev@gmail.com)
 
-#### Contacto
-
-[LinkedIn](https://www.linkedin.com/in/josebayondev/) · [josebayondev@gmail.com](mailto:josebayondev@gmail.com)
+</div>
