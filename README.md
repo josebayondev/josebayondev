@@ -2,7 +2,7 @@
 
 <h1>Jose Bayon</h1>
 
-Desarrollador fullstack
+Fullstack Developer
 
 React · TypeScript · Python
 
